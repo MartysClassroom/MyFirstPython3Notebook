@@ -7,7 +7,7 @@ If you're reading this, you're off to a good start.  But you need to officially 
 
 You'll be downloading files from this repository, working on them, and uploading them back to the repository.  Each repository has a *README.md* file, which is what you're reading now!
 
-You could download the directly to your computer from your personal repository.  But instead we will work in Google CoLab.  If you don't have reliable internet access, please see the Using Anaconda section at the bottom of this notebook.
+You could download the directly to your computer from your personal repository.  But instead we will work in Google CoLab.  If you don't have reliable internet access, please see the Using Anaconda section at the bottom of the notebook.
 
 To access Google Colab, go to [Google's Colab site](https://colab.research.google.com/), while logged into your Google account.  Note that your UCSC account, accessed with Gold password, provides full access to Google services.  This includes Google Drive for storing files, etc.  
 
